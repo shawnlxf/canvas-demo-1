@@ -21,14 +21,14 @@ body {
     position: absolute;
     z-index: 2;
     top: 20px;
-    right: 20px;
+    left: 20px;
     font-size: 16px;
 }
 
 #clear {
     position: absolute;
     z-index: 2;
-    bottom: 20px;
+    top: 20px;
     right: 20px;
     font-size: 16px;
 }
